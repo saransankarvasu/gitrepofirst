@@ -1,3 +1,7 @@
 new func(){
     return io;
 }
+
+new another func() {
+    changed some code here;
+}
