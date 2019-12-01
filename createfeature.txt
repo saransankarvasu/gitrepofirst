@@ -3,5 +3,5 @@ new func(){
 }
 
 new another func() {
-    
+    changed some code here;
 }
